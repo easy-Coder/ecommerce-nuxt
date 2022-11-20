@@ -5,7 +5,7 @@
                 <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold text-black">So what are you waiting for?</h2>
                 <Button>Shop Now</Button>
             </div>
-            <div class="pattern w-2/5 h-full absolute top-0 right-0"></div>
+            <div class="pattern -z-[1] w-2/5 h-full absolute top-0 right-0"></div>
         </div>
     </div>
 </template>
